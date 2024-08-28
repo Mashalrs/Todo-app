@@ -26,7 +26,7 @@ This project is a simple yet functional To-Do List application built using React
     + Contains an input field and a submit button.
 
 + TaskList.js
-    +Displays the list of tasks, allowing users to click on tasks to toggle their completion status and delete tasks with a button.
+    + Displays the list of tasks, allowing users to click on tasks to toggle their completion status and delete tasks with         a button.
 
 ## Technologies Used
 + React: A JavaScript library for building user interfaces, utilized for component-based development.
