@@ -31,4 +31,3 @@ This project is a simple yet functional To-Do List application built using React
 ## Technologies Used
 + React: A JavaScript library for building user interfaces, utilized for component-based development.
 + JavaScript: The core programming language used to create the functionality of the application.
-+ JavaScript: The core programming language used to create the functionality of the application.
